@@ -1,0 +1,32 @@
+:root{
+  background: #333;
+}
+
+.container {
+	margin: 30px auto;
+	width: 1000px;
+}
+
+canvas {
+	margin: 0 100px;
+	background: linear-gradient(to bottom right, #015C80, #1B3742);
+	box-shadow: 2px 2px 8px #000,2px 2px 15px rgba(255,255,255,0.8);
+}
+
+button {
+	margin: 30px 425px;
+	width: 150px;
+	height: 40px;
+	font-size: 20px;
+	background-color: lightblue;
+	border: 0;
+	border-radius: 10px;
+
+}
+
+button:hover {
+	background-color: blue;
+	color: white;
+	cursor: pointer;
+
+}
