@@ -8,7 +8,7 @@ Using HTML5 Canvas to make game Arcanoid. Game based at [canvas tutorial](http:/
 
 1. Download & extract .zip
 2. Open index.html
-3. Enjoy
+3. Enjoy :)
 
 ## **[DEMO]**
 
