@@ -16,4 +16,4 @@ Using HTML5 Canvas to make game Arcanoid. Game based at [canvas tutorial](http:/
 
 l.mordasiewicz@gmail.com
 
-[DEMO]: <http://htmlpreview.github.io/?https://github.com/mlukasz7/canvasArcanoid/blob/master/CanvasArkanoid/index.htmlo>
+[DEMO]: <http://htmlpreview.github.io/?https://github.com/mlukasz7/canvasArcanoid/blob/master/CanvasArkanoid/index.html>
